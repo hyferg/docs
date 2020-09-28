@@ -103,5 +103,3 @@ title: Inside Joke for Outsiders
 latlon: 48.316667, 8.216667
 ---
 Some say it is sexist. I think not.
-
-#END#
