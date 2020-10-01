@@ -3,6 +3,11 @@
 # SwiftBot.io
 
 ---
+title: API redirect added
+date: 2020-10-01
+---
+
+---
 title: +Role Functions
 date: 2020-09-27
 ---
