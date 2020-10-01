@@ -1,3 +1,5 @@
+%view timeline
+
 # Drinking Songs
 
 [We Be Soldiers Three](https://www.youtube.com/watch?v=3EHaky9yi1U)
