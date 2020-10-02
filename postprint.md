@@ -4,6 +4,17 @@
 
 *the project that documents itself!*
 
+Upcoming
+- time down to the second
+- expandable timeline view
+- private views + cache accumulator
+- namespace links
+
+---
+title: +cache page
+date: 2020-10-02
+---
+
 ---
 title: postprint.org registered
 date: 2020-04-15
