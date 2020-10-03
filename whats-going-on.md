@@ -70,12 +70,6 @@ date: 2014-06-22
 https://theportal.group/eric-weinstein-economic-thinking-in-a-fallible-world/
 
 ---
-title: To 120 and Beyond: Exploring Homeostatic Capacity with The Palo Alto Longevity Prize
-date: 2014-11-10
----
-https://theportal.group/to-120-and-beyond-exploring-homeostatic-capacity-with-the-palo-alto-longevity-prize/
-
----
 title: WHAT SCIENTIFIC IDEA IS READY FOR RETIREMENT?
 date: 2014-12-31
 ---
