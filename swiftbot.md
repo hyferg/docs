@@ -3,6 +3,12 @@
 # SwiftBot.io
 
 ---
+title: API Signed Token
+date: 2020-10-03
+---
+When the server validates the user, it then creates a custom token which it sends directly or via a client callback.
+
+---
 title: HTTPS API Running
 date: 2020-10-02
 ---
