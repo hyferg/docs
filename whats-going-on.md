@@ -54,3 +54,10 @@ title: WHAT IS THE LAST QUESTION?
 date: 2018-12-31
 ---
 https://theportal.group/what-is-the-last-question/
+
+---
+title: The Straussian Moment
+date: 2004-07
+---
+https://www.scottlucas.me/peter-thiels-apocalypse
+https://www.evernote.com/shard/s542/client/snv?noteGuid=46c636b6-b404-45df-ab0a-1f84c6fdc8c2&noteKey=7c94233539b8258d72b395a063f3c589&sn=https://www.evernote.com/shard/s542/sh/46c636b6-b404-45df-ab0a-1f84c6fdc8c2/7c94233539b8258d72b395a063f3c589&title=That+Essay)Thiel
