@@ -53,7 +53,32 @@ date: 2020-02-10
 
 ---
 title: The Jeantrepreneur
-date: 2020-01-10
+date: 2020-02-10
 ---
 - We Be Soldiers Three
 - Remix to trailer music 
+
+---
+title: Ethan Hammond
+date: 2020-02-07
+---
+-  We Be Soldiers Three
+- [Ethan Hammond: We Be Soldiers Three](https://cdn.discordapp.com/attachments/671518967663427594/676579144418590788/We_be_soldiers_swing_EthanHammond.mp3) 
+
+---
+title: LogicalFutrTech (tecknixia)
+date: 2020-02-11
+---
+- [We Be Soldiers Three In The Club](https://cdn.discordapp.com/attachments/671518967663427594/676718821612060682/Tecknixia_-_WeBeSoldiersThreeInTheClub.mp3)
+
+---
+title: ReputableToad
+date: 2020-02-11
+---
+- [We Be Soldiers Three](https://cdn.discordapp.com/attachments/671518967663427594/676924288200343577/We_Be_Soldiers_Three.mp3) 
+
+---
+title: The Jeantrepreneur
+date: 2020-02-11
+---
+- [](https://cdn.discordapp.com/attachments/671518967663427594/676960455926874125/WeSoldiers3_mixdown.mp3)
