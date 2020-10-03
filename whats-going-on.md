@@ -1,5 +1,6 @@
-# What's Going On ?
+%view timeline
 
+# What's Going On ?
 
 ---
 title: Zero to One
