@@ -28,12 +28,6 @@ date: 2010-12-31
 https://theportal.group/how-is-the-internet-changing-the-way-you-think/
 
 ---
-title: WHAT SCIENTIFIC CONCEPT WOULD IMPROVE EVERYBODY’S COGNITIVE TOOLKIT?
-date: 2011-12-31
----
-https://theportal.group/what-scientific-concept-would-improve-everybodys-cognitive-toolkit/
-
----
 title: WHAT IS YOUR FAVORITE DEEP, ELEGANT, OR BEAUTIFUL EXPLANATION?
 date: 2012-12-31
 ---
