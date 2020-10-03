@@ -9,6 +9,7 @@ Upcoming
 - expandable timeline view
 - private views + cache accumulator
 - namespace links
+- index with redirect
 
 ---
 title: +cache page
