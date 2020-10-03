@@ -9,7 +9,11 @@ Upcoming
 - expandable timeline view
 - private views + cache accumulator
 - namespace links
-- index with redirect
+- index with redirect for seo
+- typed graph
+    - emacs plugin suggestions
+- postprint.md
+- links (hash?) to make aggregate timelines
 
 ---
 title: doc page fix
