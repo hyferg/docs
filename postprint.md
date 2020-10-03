@@ -14,6 +14,8 @@ Upcoming
     - emacs plugin suggestions
 - postprint.md
 - links (hash?) to make aggregate timelines
+- allow for duplicate timeline objects
+- [fixed width](https://visjs.github.io/vis-timeline/examples/timeline/items/visibleFrameTemplateContent.html) 
 
 ---
 title: doc page fix
