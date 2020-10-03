@@ -12,6 +12,12 @@ Upcoming
 - index with redirect
 
 ---
+title: doc page fix
+date: 2020-10-03
+---
+seperate documents are now seperate
+
+---
 title: +cache page
 date: 2020-10-02
 ---
