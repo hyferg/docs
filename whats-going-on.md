@@ -82,12 +82,6 @@ date: 2014-12-31
 https://theportal.group/what-scientific-idea-is-ready-for-retirement/
 
 ---
-title: Wrestling in a Kayfabe World – Epic Science #111
-date: 2015-07-30
----
-https://theportal.group/wrestling-in-a-kayfabe-world-epic-science-111/
-
----
 title: WHAT SCIENTIFIC CONCEPT WOULD IMPROVE EVERYBODY’S COGNITIVE TOOLKIT?
 date: 2011-12-31
 ---
