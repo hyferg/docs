@@ -15,6 +15,7 @@ title: Philosophy
 
 - Simulacra and Simulation
 - Things Hidden Since the Foundation of the World
+- Discourses on Livy
 
 ---
 title: Unsorted
