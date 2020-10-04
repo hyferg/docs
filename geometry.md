@@ -17,7 +17,7 @@ First year graduate textbook?
 
 # Smooth Manifolds by Lee [pdf](https://thunv.files.wordpress.com/2015/09/graduate-texts-in-mathematics-vol-218-john-m-lee-introduction-to-smooth-manifolds-springer-2013.pdf) 
 
-Has good amount of typed definions.
+Has good amount of typed definitions.
 
 # Discrete Differential Geometry [pdf+](http://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/) 
 
@@ -29,6 +29,12 @@ The spirit
 ---
 title: The Stack
 ---
+
+# From Logic to Diff. Geo. Applications
+
+Frederic Schuller (goat?) never chooses a basis unless he must. This lecture series covers logic, set theory, diff. geometry, physics and things in-between in a linear and comprehensible fashion.
+
+# Usage
 
 Each section corresponds to a video in the lecture series below. The pedagogy follows a conceptual stack of layered mathematical structure from first principles. This page allows the user to ctrl-f any technical term and find out:
 
