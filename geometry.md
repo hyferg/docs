@@ -5,6 +5,26 @@
 "What we cannot speak about clearly we must pass over in silence." -Wittgenstein
 
 ---
+title: Materials
+---
+- An Elementary Introduction to Information Geometry [pdf](https://news.ycombinator.com/item?id=24645530) 
+
+10 page primer on diff. geo before getting into IG.
+
+- The Geometry of Physics: An Introduction [pdf](https://fedika.com/wp-content/uploads/2019/02/The-Geometry-of-Physics.pdf) 
+
+First year graduate textbook?
+
+- Smooth Manifolds by Lee [pdf](https://thunv.files.wordpress.com/2015/09/graduate-texts-in-mathematics-vol-218-john-m-lee-introduction-to-smooth-manifolds-springer-2013.pdf) 
+
+Has good amount of typed definions.
+
+- Discrete Differential Geometry [pdf+](http://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/) 
+
+"The spirit", [assignments](http://brickisland.net/DDGSpring2020/) [lecture vids](https://www.youtube.com/watch?v=FRvhgkGKfSM&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS) 
+
+
+---
 title: The Stack
 ---
 
