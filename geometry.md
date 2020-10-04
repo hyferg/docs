@@ -21,7 +21,9 @@ Has good amount of typed definions.
 
 # Discrete Differential Geometry [pdf+](http://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/) 
 
-"The spirit", [assignments](http://brickisland.net/DDGSpring2020/) [lecture vids](https://www.youtube.com/watch?v=FRvhgkGKfSM&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS) 
+The spirit
+- [assignments](http://brickisland.net/DDGSpring2020/) 
+- [lecture vids](https://www.youtube.com/watch?v=FRvhgkGKfSM&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS) 
 
 
 ---
