@@ -11,6 +11,8 @@ Bugs
 - Posts with hyphen dividers get split (computing.md)
 
 Upcoming
+- Database
+    - lowdb
 - Time
     - [fixed width](https://visjs.github.io/vis-timeline/examples/timeline/items/visibleFrameTemplateContent.html) 
     - time down to the second
