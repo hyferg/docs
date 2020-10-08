@@ -2,6 +2,10 @@
 
 # Computing
 
+## To Research
+
+- reflex, reflex-dom, GHCjs
+
 ---
 title: Latency
 ---

@@ -4,8 +4,18 @@
 
 *the project that documents itself!*
 
+Minor
+- Spacing below header
+
+Bugs
+- Posts with hyphen dividers get split (computing.md)
+
 Upcoming
-- time down to the second
+- Database
+    - lowdb
+- Time
+    - [fixed width](https://visjs.github.io/vis-timeline/examples/timeline/items/visibleFrameTemplateContent.html) 
+    - time down to the second
 - expandable timeline view
 - private views + cache accumulator
 - namespace links
@@ -15,7 +25,14 @@ Upcoming
 - postprint.md
 - links (hash?) to make aggregate timelines
 - allow for duplicate timeline objects
-- [fixed width](https://visjs.github.io/vis-timeline/examples/timeline/items/visibleFrameTemplateContent.html) 
+
+- New Timelines
+    - Founder's Fund
+
+---
+title: +working repo view
+date: 2020-10-08
+---
 
 ---
 title: doc page fix
