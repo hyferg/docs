@@ -2,6 +2,12 @@
 
 # What's Going On ?
 
+## Tools
+- [google ngram](https://books.google.com/ngrams) 
+- [google trends](https://trends.google.com/trends/?geo=US) 
+- [google public data explorer](https://www.google.com/publicdata/directory) 
+- [google earth](https://www.google.com/earth/) 
+
 ---
 title: Zero to One
 date: 2014-09-16
