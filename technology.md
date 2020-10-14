@@ -11,6 +11,10 @@
 - CRT
 - LCD
 
+---
+title: Black–Scholes
+date: 1973
+---
 
 ---
 title: AlexNet
