@@ -4,21 +4,18 @@
 
 *the project that documents itself!*
 
-Minor
-- Spacing below header
+## Working On
+- private views
+- tab title
 
-Bugs
+## Bugs
 - Posts with hyphen dividers get split (computing.md)
 - forward time projection is in days only
 
-Upcoming
-- Database
-    - lowdb
-- Time
-    - [fixed width](https://visjs.github.io/vis-timeline/examples/timeline/items/visibleFrameTemplateContent.html) 
-    - time down to the second
+## Upcoming
+- migrate cache to lowdb
+- time down to the second
 - expandable timeline view
-- private views + cache accumulator
 - namespace links
 - index with redirect for seo
 - typed graph
@@ -27,28 +24,28 @@ Upcoming
 - links (hash?) to make aggregate timelines
 - allow for duplicate timeline objects
 
-- New Timelines
-    - Founder's Fund
+## Documents to Add
+- Founder's Fund
 
 ---
-title: +working repo view
 date: 2020-10-08
+title: +working repo view
 ---
 
 ---
-title: doc page fix
 date: 2020-10-03
+title: doc page fix
 ---
 seperate documents are now seperate
 
 ---
-title: +cache page
 date: 2020-10-02
+title: +cache page
 ---
 
 ---
-title: postprint.org registered
 date: 2020-04-15
+title: postprint.org registered
 ---
 
 ---

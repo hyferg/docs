@@ -3,6 +3,17 @@
 # SwiftBot.io
 
 ---
+title: Event Image Render Test
+date: 2020-10-18
+---
+
+---
+title: Basic Client Auth Working
+date: 2020-10-09
+---
+on the 'cameron' branch
+
+---
 title: API Signed Token
 date: 2020-10-03
 ---
