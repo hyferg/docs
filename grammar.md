@@ -12,6 +12,8 @@ title: Lexical Analysis
 - lex/flex and yacc/bison
 - [Flex](https://en.wikipedia.org/wiki/Flex_(lexical_analyser_generator)) 
 - [GNU Bison](https://en.wikipedia.org/wiki/GNU_Bison) 
+- [Applicative Parsing Intro](https://eli.thegreenplace.net/2017/deciphering-haskells-applicative-and-monadic-parsers/)
+- [Parsec tutorial](https://www.cnblogs.com/ncore/p/6892500.html) 
 
 ---
 title: Linting
