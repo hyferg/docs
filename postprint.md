@@ -9,6 +9,7 @@ Minor
 
 Bugs
 - Posts with hyphen dividers get split (computing.md)
+- forward time projection is in days only
 
 Upcoming
 - Database
