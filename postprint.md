@@ -27,24 +27,24 @@
 - Founder's Fund
 
 ---
-title: +working repo view
 date: 2020-10-08
+title: +working repo view
 ---
 
 ---
-title: doc page fix
 date: 2020-10-03
+title: doc page fix
 ---
 seperate documents are now seperate
 
 ---
-title: +cache page
 date: 2020-10-02
+title: +cache page
 ---
 
 ---
-title: postprint.org registered
 date: 2020-04-15
+title: postprint.org registered
 ---
 
 ---
