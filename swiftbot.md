@@ -3,6 +3,11 @@
 # SwiftBot.io
 
 ---
+title: Event Image Render Test
+date: 2020-10-18
+---
+
+---
 title: Basic Client Auth Working
 date: 2020-10-09
 ---
