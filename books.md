@@ -20,3 +20,7 @@ title: Philosophy
 ---
 title: Unsorted
 ---
+- The Fountainhead
+- The Righteous Mind: Why Good People Are Divided by Politics and Religion
+- A Renegade History of the United States
+- The Machiavellians, defenders of freedom
