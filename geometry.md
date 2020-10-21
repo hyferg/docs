@@ -13,11 +13,11 @@ title: Materials
 
 # The Geometry of Physics: An Introduction [pdf](https://fedika.com/wp-content/uploads/2019/02/The-Geometry-of-Physics.pdf) 
 
-First year graduate textbook?
+Graduate textbook?
 
 # Smooth Manifolds by Lee [pdf](https://thunv.files.wordpress.com/2015/09/graduate-texts-in-mathematics-vol-218-john-m-lee-introduction-to-smooth-manifolds-springer-2013.pdf) 
 
-Has good amount of typed definitions.
+Has typed definitions.
 
 # Discrete Differential Geometry [pdf+](http://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/) 
 
@@ -32,20 +32,20 @@ title: The Stack
 
 # From Logic to Diff. Geo. Applications
 
-Frederic Schuller (goat?) never chooses a basis unless he must. This lecture series covers logic, set theory, diff. geometry, physics and things in-between in a linear and comprehensible fashion.
+Frederic Schuller (goat?) never chooses a basis unless he must. This lecture series covers logic, set theory, diff. geometry, physics and things in-between in a linear and fashion.
 
 # Usage
 
-Each section corresponds to a video in the lecture series below. The pedagogy follows a conceptual stack of layered mathematical structure from first principles. This page allows the user to ctrl-f any technical term and find out:
+Each section corresponds to a video in the lecture series below. The pedagogy follows a stack of mathematical structure from first principles. This page allows the user to ctrl-f any term and find out:
 
 - at what point it lies in the stack
 - what concepts lie below it
 
 Source materials
 
-- Core lecture series: [Lectures on Geometrical Anatomy of Theoretical Physics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
+- Core Series: [Lectures on Geometrical Anatomy of Theoretical Physics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 - Blogpost from which section descriptions are taken: [Blogpost](https://mathswithphysics.blogspot.com/2016/07/lectures-on-geometric-anatomy-of.html)
-- High quality notes to accompany the lecture series: [Simon Rea's Notes](https://drive.google.com/file/d/1nchF1fRGSY3R3rP1QmjUg7fe28tAS428/view)
+- Notes to accompany the lecture series: [Simon Rea's Notes](https://drive.google.com/file/d/1nchF1fRGSY3R3rP1QmjUg7fe28tAS428/view)
 
 
 # Logic
