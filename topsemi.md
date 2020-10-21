@@ -2,9 +2,7 @@
 
 # Topological Semiconductors 
 
-geometry + semiconductors
-
-notable keywords pulled from a magazine article on the topic
+Geometry + Semiconductors
 
 ---
 title: Dawn of the Topological Age
