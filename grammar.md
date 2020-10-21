@@ -5,32 +5,33 @@
 words and logic
 
 ---
-title: Lexical Analysis
+title: Application Domains
 ---
-
-- [Lexical analysis](https://en.wikipedia.org/wiki/Lexical_analysis) 
-- lex/flex and yacc/bison
-- [Flex](https://en.wikipedia.org/wiki/Flex_(lexical_analyser_generator)) 
-- [GNU Bison](https://en.wikipedia.org/wiki/GNU_Bison) 
-- [Applicative Parsing Intro](https://eli.thegreenplace.net/2017/deciphering-haskells-applicative-and-monadic-parsers/)
-- [Parsec tutorial](https://www.cnblogs.com/ncore/p/6892500.html) 
-
----
-title: Linting
----
-
-- [Linting](https://en.wikipedia.org/wiki/Lint_(software)) 
-
----
-title: Tools
----
-
 - [Russell Conjugation](https://www.edge.org/response-detail/27181) 
 
 ---
-title: Formal Grammar
+title: Libraries
 ---
+- [Parsec](https://wiki.haskell.org/Parsec) 
+- [Chatter NLP](https://hackage.haskell.org/package/chatter-0.9.1.0)
+- [spaCy](https://spacy.io) 
 
+---
+title: Grammar
+---
 - [Formal Grammar](https://en.wikipedia.org/wiki/Formal_grammar) 
-- Chomsky hierarchy
+- [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
 
+---
+title: Standalone Tools
+---
+- [iA Writer](https://ia.net/writer) 
+- [Writegood Mode](https://github.com/bnbeckwith/writegood-mode) 
+- [Wordsmith Mode](https://github.com/istib/wordsmith-mode) 
+
+---
+title: Tutorials
+---
+- [Simple POS Tagging](https://honnibal.wordpress.com/2013/09/11/a-good-part-of-speechpos-tagger-in-about-200-lines-of-python/)
+- [Applicative Parsing Intro](https://eli.thegreenplace.net/2017/deciphering-haskells-applicative-and-monadic-parsers/)
+- [Parsec Tutorial](https://www.cnblogs.com/ncore/p/6892500.html) 
