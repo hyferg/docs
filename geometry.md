@@ -9,7 +9,7 @@ title: Materials
 ---
 # An Elementary Introduction to Information Geometry [pdf](https://news.ycombinator.com/item?id=24645530) 
 
-10 page primer on diff. geo before getting into IG.
+10 page primer on differential geometry before getting into information geometry.
 
 # The Geometry of Physics: An Introduction [pdf](https://fedika.com/wp-content/uploads/2019/02/The-Geometry-of-Physics.pdf) 
 
@@ -21,7 +21,7 @@ Has typed definitions.
 
 # Discrete Differential Geometry [pdf+](http://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/) 
 
-The spirit
+The spirit.
 - [assignments](http://brickisland.net/DDGSpring2020/) 
 - [lecture vids](https://www.youtube.com/watch?v=FRvhgkGKfSM&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS) 
 
@@ -32,7 +32,7 @@ title: The Stack
 
 # From Logic to Diff. Geo. Applications
 
-Frederic Schuller (goat?) never chooses a basis unless he must. This lecture series covers logic, set theory, diff. geometry, physics and things in-between in a linear and fashion.
+Frederic Schuller (G.O.A.T?) never chooses a basis unless he must. This lecture series covers logic, set theory, diff. geometry, physics and things in-between linearly.
 
 # Usage
 
