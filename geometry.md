@@ -27,7 +27,7 @@ The spirit.
 
 
 ---
-title: The Stack
+title: Schuller's Stack
 ---
 
 # From Logic to Diff. Geo. Applications
