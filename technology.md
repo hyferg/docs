@@ -10,6 +10,12 @@
 - WWI
 - CRT
 - LCD
+- dutch east india
+
+---
+title: Dutch East India
+date: 1602-03-20
+---
 
 ---
 title: Black–Scholes

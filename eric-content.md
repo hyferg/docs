@@ -5,6 +5,18 @@
 https://theportal.wiki/wiki/History_of_the_Portal
 
 ---
+title: Lex Fridman #134 | Eric On the Nature of Good and Evil, Genius and Madness
+date: 2020-10-29
+---
+https://theportal.group/lex-fridman-134-eric-on-the-nature-of-good-and-evil-genius-and-madness/
+
+---
+title: 41: Douglas Murray – Heroism 2020: Defense of Our Own Civilization
+date: 2020-10-23
+---
+https://theportal.group/41-douglas-murray-heroism-2020-defense-of-our-own-civilization/
+
+---
 title: An Ode To The Uncorrelated Thinker — Eric Weinstein | #100
 date: 2020-09-27
 ---
