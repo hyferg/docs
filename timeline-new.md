@@ -12,203 +12,203 @@
 - LCD
 - dutch east india
 
-# Dutch East India
+## Dutch East India
 %date 1602-03-20
 
-# Black–Scholes
+## Black–Scholes
 %date 1973
 
-# AlexNet
+## AlexNet
 %date 2012-09-30
 
-# Backprop
+## Backprop
 %date 1986
 
-# Walkman
+## Walkman
 %date 1979-07-01
 
-# DynaTAC
+## DynaTAC
 %date 1983-09-21
 
-# MOSFET
+## MOSFET
 %date 1959-11
 
-# DRAM
+## DRAM
 %date 1967
 Dennard MOS DRAM
 
-# LED
+## LED
 %date 1962-10-09
 TI SNX-100
 
-# Integrated Circuit
+## Integrated Circuit
 %date 1958-09-12
 Kilby at Texas Instruments
 
-# LASER
+## LASER
 %date 1957
 
-# Sputnik
+## Sputnik
 %date 1957-10-04
 
-# Metropolis
+## Metropolis
 %date 1927-01-10
 
-# Radio News
+## Radio News
 %date 1920-08-31
 8MK in Detroit
 
-# Unmarried Contraception
+## Unmarried Contraception
 %date 1972-03-22
 Eisenstadt v. Baird
 
-# Rotary Phone
+## Rotary Phone
 %date 1919
 Western Electric 50AL
 
-# RAF
+## RAF
 %date 1918
 Royal Air Force founded
 
-# Tommy Gun
+## Tommy Gun
 %date 1918
 
-# Wi-Fi
+## Wi-Fi
 %date 1997
 802.11 protocol
 
-# The Bomb
+## The Bomb
 %date 1945-07-16
 
-# Double Helix
+## Double Helix
 %date 1953
 
-# Quarks
+## Quarks
 %date 1968
 SLAC discovery but no implications for industry?
 
-# Boeing 247
+## Boeing 247
 %date 1933-02-08
 
-# Nixon Shock
+## Nixon Shock
 %date 1971
 
-# Bretton Woods
+## Bretton Woods
 %date 1944
 
-# Home Fridge
+## Home Fridge
 %date 1918
 Frigidaire company
 
-# 13th Amendment
+## 13th Amendment
 %date 1865-01-31
 
-# 2nd Amendment
+## 2nd Amendment
 %date 1791-12-15
 
-# 1st Amendment
+## 1st Amendment
 %date 1791-12-05
 
-# Constitution of the United States
+## Constitution of the United States
 %date 1787-09-28
 
-# Maxwell's Equations
+## Maxwell's Equations
 %date 1861
 
-# Einstein Photoelectric
+## Einstein Photoelectric
 %date 1905
 
-# Emacs & Vi
+## Emacs & Vi
 %date 1976
 
-# GIT
+## GIT
 %date 2005-04-07
 GIT released
 
-# Chain Driven Bike
+## Chain Driven Bike
 %date 1885
 
-# Bakelite
+## Bakelite
 %date 1907
 
-# Apollo 11
+## Apollo 11
 %date 1969-07-20
 
-# Ford Assembly
+## Ford Assembly
 %date 1913
 Highland Park Ford Plant
 
-# TCP
+## TCP
 %date 1974
 Transmission Control Program
 
-# Turing Machine
+## Turing Machine
 %date 1936
 
-# Transistor
+## Transistor
 %date 1947
 
-# Colt Revolver
+## Colt Revolver
 %date 1835
 
-# Penicillin
+## Penicillin
 %date 1928
 
-# Bitcoin
+## Bitcoin
 %date 2008-10-31
 Whitepaper
 
-# Facebook ACQ Oculus
+## Facebook ACQ Oculus
 %date 2014-03
 $ 2.5 MM
 https://en.wikipedia.org/wiki/Oculus_Rift
 
-# Oculus Kickstarter
+## Oculus Kickstarter
 %date 2012
 https://en.wikipedia.org/wiki/Oculus_Rift
 
-# GANs
+## GANs
 %date 2014
 Generative Adversarial Networks
 
-# Oculus Quest
+## Oculus Quest
 %date 2019-05-21
 Oculus Quest Released
 
-# YouTube
+## YouTube
 %date 2005-02-14
 YouTube Founded
 
-# iPhone
+## iPhone
 %date 2007-06-29
 
-# Apple 
+## Apple 
 $date 1976-04-01
 
-# Microsoft
+## Microsoft
 %date 1975-04-04
 Microsoft founded
 
-# Facebook
+## Facebook
 %date 2004-02-04
 Facebook founded
 
-# Twitter
+## Twitter
 %date 2006-03-21
 
-# PageRank Patent
+## PageRank Patent
 %date 2001-07-02
 https://patents.google.com/patent/US7058628B1/en
 
-# PageRank Developed
+## PageRank Developed
 %date 1996
 https://en.wikipedia.org/wiki/PageRank#History
 
-# Google Founded
+## Google Founded
 %date 1998-09
 Google founded
 https://en.wikipedia.org/wiki/Google
 
-# Google ACQ YouTube
+## Google ACQ YouTube
 %date 2006-10
 https://en.wikipedia.org/wiki/Google#History
