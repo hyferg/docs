@@ -23,9 +23,10 @@
 - postprint.md
 - links (hash?) to make aggregate timelines
 - allow for duplicate timeline objects
-
-## Documents to Add
-- Founder's Fund
+- parsimmon parser combinators
+    - fantayland?
+- migrate onto typescript
+- timeline combiner
 
 ---
 date: 2020-10-08

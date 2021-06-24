@@ -11,6 +11,7 @@
 - CRT
 - LCD
 - dutch east india
+- [Energy Crisis 1970](https://en.wikipedia.org/wiki/1970s_energy_crisis) 
 
 ---
 title: Dutch East India
